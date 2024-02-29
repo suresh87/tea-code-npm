@@ -1,6 +1,6 @@
 {
   "name": "@suresh1989/tea-code-npm",
-  "version": "1.4.7",
+  "version": "1.4.9",
   "description": "tea-code-npm",
   "main": "index.js",
   "dependencies": {
@@ -98,7 +98,7 @@
   "author": "suresh1989",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suresh87/tea-code-npm/issues"
+    "url": "git+https://github.com/suresh87/tea-code-npm.git"
   },
   "homepage": "https://github.com/suresh87/tea-code-npm#README.md"
 }
