@@ -11,6 +11,6 @@ ES6 Support (Node 6+)
 long - Used for computing the 64-bit output hash.
 int32 - Allows native int32 usage in Node for overflowing.
 
-Installing
+master Installing
 
 npm install dplyer
